@@ -17,7 +17,7 @@ options.add_argument("--window-size=1200,1100");
 
 print ("""******** HUMAN CAPTCHA ********""")
 
-with open('config.txt') as f:
+with open('../../Desktop/config.txt') as f:
   credentials = [x.strip().split(':') for x in f.readlines()]
   random.choice('config.txt')
 
