@@ -6,5 +6,4 @@ Logs into Gmail account and runs selenium script to mimic human behavior to get 
 2) Change the config file with your Gmail(s)
 3) run "python main.py"
 
-To Do:
 - [x] Fun
